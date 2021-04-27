@@ -1,0 +1,38 @@
+<annotation>
+	<folder>students</folder>
+	<filename>060.jpg</filename>
+	<path>E:\Neural network database\students\060.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>students</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>663</xmin>
+			<ymin>160</ymin>
+			<xmax>1001</xmax>
+			<ymax>719</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>students</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>301</xmin>
+			<ymin>226</ymin>
+			<xmax>757</xmax>
+			<ymax>718</ymax>
+		</bndbox>
+	</object>
+</annotation>
